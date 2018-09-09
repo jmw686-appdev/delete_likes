@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem "figaro"
 gem 'omniauth-tumblr'
+gem 'httparty'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
