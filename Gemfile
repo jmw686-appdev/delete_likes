@@ -31,6 +31,7 @@ gem 'devise'
 gem "figaro"
 gem 'omniauth-tumblr'
 gem 'httparty'
+# gem 'rickshaw'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
